@@ -1,4 +1,4 @@
-# [d.py-ext-tasks-loop-group](https://github.com/Req-kun/d.py-ext-tasks-loop-group)
+# [dpy-ext-tasks-loop-group](https://github.com/Req-kun/d.py-ext-tasks-loop-group)
 
 このパッケージは、discord.pyで使用可能なtasks.loopをまとめて実行できるようにしたものです。  
 また、ループには同じ関数名を使用することができます。  
