@@ -50,7 +50,6 @@ class LoopGroup:
         return decorator
     
     def start(self):
-        return
         result = []
         for loop in self.loops:
             loop[0].start(*loop[1], **loop[2])
