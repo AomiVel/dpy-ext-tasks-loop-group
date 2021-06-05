@@ -1,4 +1,4 @@
-# [dpy-ext-tasks-loop-group](https://github.com/Req-kun/d.py-ext-tasks-loop-group)
+# [dpy-ext-tasks-loop-group](https://github.com/Req-kun/dpy-ext-tasks-loop-group)
 
 このパッケージは、discord.pyで使用可能なtasks.loopをまとめて実行できるようにしたものです。  
 また、ループには同じ関数名を使用することができます。  
@@ -12,7 +12,7 @@
 ※現在はこの方法でのみインストールできます  
 
 ```sh
-$ git clone https://github.com/Req-kun/d.py-ext-tasks-loop-group.git
+$ git clone https://github.com/Req-kun/dpy-ext-tasks-loop-group.git
 $ cd d.py-ext-tasks-loop-group
 $ python setup.py install
 ```
@@ -42,13 +42,13 @@ lg = LoopGroup()
 > loops (list)
 
 ##### Methods
-> [@ loop](https://github.com/Req-kun/d.py-ext-tasks-loop-group#loopkwargs)  
-[def start](https://github.com/Req-kun/d.py-ext-tasks-loop-group#start)  
-[def stop](https://github.com/Req-kun/d.py-ext-tasks-loop-group#stop)  
-[def setargs](https://github.com/Req-kun/d.py-ext-tasks-loop-group#setargsname-args)  
-[def setkwargs](https://github.com/Req-kun/d.py-ext-tasks-loop-group#setkwargsname-kwargs)  
-[def find](https://github.com/Req-kun/d.py-ext-tasks-loop-group#findname)  
-[def findall](https://github.com/Req-kun/d.py-ext-tasks-loop-group#findallname)
+> [@ loop](https://github.com/Req-kun/dpy-ext-tasks-loop-group#loopkwargs)  
+[def start](https://github.com/Req-kun/dpy-ext-tasks-loop-group#start)  
+[def stop](https://github.com/Req-kun/dpy-ext-tasks-loop-group#stop)  
+[def setargs](https://github.com/Req-kun/dpy-ext-tasks-loop-group#setargsname-args)  
+[def setkwargs](https://github.com/Req-kun/dpy-ext-tasks-loop-group#setkwargsname-kwargs)  
+[def find](https://github.com/Req-kun/dpy-ext-tasks-loop-group#findname)  
+[def findall](https://github.com/Req-kun/dpy-ext-tasks-loop-group#findallname)
 
 #### loop(**kwargs)
 
