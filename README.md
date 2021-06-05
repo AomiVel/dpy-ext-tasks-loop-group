@@ -42,12 +42,13 @@ lg = LoopGroup()
 > loops (list)
 
 ##### Methods
-> [@ loop](https://github.com/Req-kun/d.py-ext-tasks-loop-group/blob/main/README.md#loop(**kwargs))  
-[def start]()  
-[def setargs]()  
-[def setkwargs]()  
-[def find]()  
-[def findall]()
+> [@ loop](https://github.com/Req-kun/d.py-ext-tasks-loop-group#loopkwargs)  
+[def start](https://github.com/Req-kun/d.py-ext-tasks-loop-group#start)  
+[def stop](https://github.com/Req-kun/d.py-ext-tasks-loop-group#stop)  
+[def setargs](https://github.com/Req-kun/d.py-ext-tasks-loop-group#setargsnameargs)  
+[def setkwargs](https://github.com/Req-kun/d.py-ext-tasks-loop-group#setkwargsnamekwargs)  
+[def find](https://github.com/Req-kun/d.py-ext-tasks-loop-group#findname)  
+[def findall](https://github.com/Req-kun/d.py-ext-tasks-loop-group#findallname)
 
 #### loop(**kwargs)
 
