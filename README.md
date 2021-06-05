@@ -14,7 +14,7 @@
 ```sh
 $ git clone https://github.com/Req-kun/dpy-ext-tasks-loop-group.git
 $ cd d.py-ext-tasks-loop-group
-$ python setup.py install
+$ python -m pip install .
 ```
 
 ## Example
