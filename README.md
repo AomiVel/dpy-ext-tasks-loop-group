@@ -28,6 +28,8 @@ async def loop():
     print('10 seconds loop')
 ```
 
+More example: [example.py](https://github.com/Req-kun/dpy-ext-tasks-loop-group/blob/main/example.py)
+
 ## Reference
 
 ### class LoopGroup()
