@@ -13,7 +13,7 @@
 
 ```sh
 $ git clone https://github.com/Req-kun/dpy-ext-tasks-loop-group.git
-$ cd d.py-ext-tasks-loop-group
+$ cd dpy-ext-tasks-loop-group
 $ python -m pip install .
 ```
 
